@@ -7,4 +7,4 @@ DNA Research, Volume 28, Issue 1, February 2021, dsaa032,
 [doi: 10.1093/dnares/dsaa032](https://doi.org/10.1093/dnares/dsaa032)
 PMID: [33492369](https://pubmed.ncbi.nlm.nih.gov/33492369/)   
 
-[Pipeline LINK](https://github.com/hkanegae/SoybeanSNP_pipeline/blob/master/PMID33492369.md) 
+[Pipeline LINK](https://gist.github.com/hkanegae/943c4a5ead977e255f48be41e05911f8) 
